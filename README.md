@@ -1,2 +1,4 @@
 # Numerical-Solution-to-the-Finite-Potential-Well-of-Schrodingers-Equation
   The  probability  of  the  particle’s  position  exhibits the behavior of a harmonic oscillator, in which there is nodes defined throughout space. This allows us to describe a wave function for the particle’s probability density in a one-dimensional infinite and finite potential well using Schrodinger’s Equation.  Solving the wave function for the infinite potential well can be done analytically, while the solution for the finite potential results in a transcendental equation, which can be solved numerically.
+
+Consider reading the pdf _01___Christian_Molina__A_Numerical_Solution_to_the_Finite_Potential_Well_of_Schrodinger_s_Equation_ for an in-depth introduction to the one-dimensional Shrodinger's Equation for a Finite Potential well and a numerical solution. 
